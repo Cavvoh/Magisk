@@ -19,7 +19,7 @@ Some highlight features:
 
 [Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
 
-[![](https://img.shields.io/badge/Magisk%20Beta-v27.0-blue)](https://raw.githubusercontent.com/cavvoh/Magisk/deploy/stable/app-debug.apk)
+[![](https://img.shields.io/badge/Magisk%20Beta-v27.002-blue)](https://raw.githubusercontent.com/cavvoh/Magisk/deploy/stable/app-debug.apk)
 
 ## Useful Links
 
